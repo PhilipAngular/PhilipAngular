@@ -1,8 +1,8 @@
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-**ENGLISH:** if you want to see this documentation in Brazil-Portuguese, please access [README-pt-br.md](README-pt-br.md).
+**ENGLISH:** if you want to see this documentation in English, please access [README.md](README.md).
 
-**PORTUGUÊS:** caso você queira ver essa documentação em Português-Brasil, favor acessar [README-pt-br.md](README-pt-br.md).
+**PORTUGUÊS:** caso você queira ver essa documentação em Inglês, favor acessar [README.md](README.md).
 
 <h1 align="center">Hi 👋, I'm Philip</h1>
 
