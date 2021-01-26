@@ -4,12 +4,12 @@
 
 **PORTUGUÊS:** caso você queira ver essa documentação em Inglês, favor acessar [README.md](README.md).
 
-<h1 align="center">Hi 👋, I'm Philip</h1>
+<h1 align="center">Olá 👋, eu sou o Philip</h1>
 
 ![Philip I  T  Delling](https://user-images.githubusercontent.com/16709062/105776305-184dca00-5f47-11eb-942b-cea496687264.png)
 
 <h3 align="center">
-    A front-end developer from Brazil. I have 7 years of full-stack experience at Philips Clinical Informatics, working as a Developer, DevLeader, Code reviewer, Analyst e Development instructor and internal processes. As I work with many internal standards and technologies that are not so current. I'm focusing on updating myself, starting my studies in new technologies to accompany the job market.
+    Um desenvolvedor front-end do Brasil. Tenho 7 anos de experiência full-stack na Philips Clinical Informatics, trabalhando como desenvolvedor, DevLeader, revisor de código, analista e instrutor de desenvolvimento e processos internos. Como trabalho com muitos padrões internos e tecnologias que não são tão atuais. Estou focando em me atualizar, iniciando meus estudos em novas tecnologias para acompanhar o mercado de trabalho.
 </h3>
 
 </br>
@@ -37,15 +37,15 @@
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 
-## **Currently**
+## **Atualmente**
 
-- 🛠️ I’m working on [Personal Cash Flow](https://github.com/PhilipAngular/mfa-personal-cash-flow)
+- 🛠️ Estou trabalhando no projeto [Personal Cash Flow](https://github.com/PhilipAngular/mfa-personal-cash-flow)
 
-- 📖 I’m learning **MEAN - Mongo, Express, AngularJS and NodeJS**
+- 📖 Estou estudando **MEAN - Mongo, Express, AngularJS and NodeJS**
 
-- 📚 All of my projects are available at [https://github.com/PhilipAngular?tab=repositories](https://github.com/PhilipAngular?tab=repositories)
+- 📚 Todos os meus projetos estão disponíveis em [https://github.com/PhilipAngular?tab=repositories](https://github.com/PhilipAngular?tab=repositories)
 
-## **Languages and Tools**
+## **Linguagens e Ferramentas**
 
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
