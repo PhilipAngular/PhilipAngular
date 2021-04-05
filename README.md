@@ -39,11 +39,11 @@
 
 ## **Currently**
 
-- 🛠️ I’m working on [Personal Cash Flow](https://github.com/PhilipAngular/mfa-personal-cash-flow)
+- 🛠️ I’m working on [Personal Cash Flow](https://github.com/pitdelling/mfa-personal-cash-flow)
 
 - 📖 I’m learning **MEAN - Mongo, Express, AngularJS and NodeJS**
 
-- 📚 All of my projects are available at [https://github.com/PhilipAngular?tab=repositories](https://github.com/PhilipAngular?tab=repositories)
+- 📚 All of my projects are available at [https://github.com/pitdelling?tab=repositories](https://github.com/pitdelling?tab=repositories)
 
 ## **Languages and Tools**
 
