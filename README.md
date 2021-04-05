@@ -17,7 +17,7 @@
 <p align="center">
     <a href="https://www.linkedin.com/in/philip-delling/">
         <img src="https://img.shields.io/badge/-Philip&nbsp;Ibbotson&nbsp;T.&nbsp;Delling-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/philip-delling/"
-            alt="philipangular" />
+            alt="pitdelling" />
     </a>
     <a href="mailto:philip.i.t.delling@gmail.com">
         <img src="https://img.shields.io/badge/-philip.i.t.delling@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:philip.i.t.delling@gmail.com"
@@ -26,12 +26,12 @@
 </p>
 
 <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=philipangular&label=Profile%20Views&color=0e75b6&style=flat"
+    <img src="https://komarev.com/ghpvc/?username=pitdelling&label=Profile%20Views&color=0e75b6&style=flat"
         alt="views" />
 </p>
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=philipangular&theme=onedark" alt="trophy" />
+        <img src="https://github-profile-trophy.vercel.app/?username=pitdelling&theme=onedark" alt="trophy" />
     </a>
 </p>
 <!-- markdownlint-restore -->
@@ -106,13 +106,13 @@
     </a>
 </p>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=philipangular&show_icons=true&locale=en&layout=compact&theme=onedark" alt="projects-languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pitdelling&show_icons=true&locale=en&layout=compact&theme=onedark" alt="projects-languages" />
 </p>
 
 ## **GitHub Status**
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=philipangular&show_icons=true&locale=en&theme=onedark" alt="projects-status" />
+    <img src="https://github-readme-stats.vercel.app/api?username=pitdelling&show_icons=true&locale=en&theme=onedark" alt="projects-status" />
 </p>
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
