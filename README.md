@@ -9,7 +9,7 @@
 ![Philip I  T  Delling](https://user-images.githubusercontent.com/16709062/105776305-184dca00-5f47-11eb-942b-cea496687264.png)
 
 <h3 align="center">
-    A front-end developer from Brazil. I have 7 years of full-stack experience at Philips Clinical Informatics, working as a Developer, DevLeader, Code reviewer, Analyst e Development instructor and internal processes. As I work with many internal standards and technologies that are not so current. I'm focusing on updating myself, starting my studies in new technologies to accompany the job market.
+    A front-end developer from Brazil. I have 7 years of full-stack experience at Philips Clinical Informatics, working as a Developer, DevLeader, Code reviewer, Analyst e Development and Internal Processes Instructor. As I work with many internal standards and technologies that are not so current. I'm focusing on updating myself, starting my studies in new technologies to accompany the job market.
 </h3>
 
 </br>
